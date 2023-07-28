@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicakay
-- 👀 I’m interested in Webdev, PC and Xbox Gaming, Drawing, Making Music, Playing Violin, Guitar and Keyboard, Conlanging, Japanese Language, Dolls, Sculptures and Driving 
-- 🌱 I’m currently learning Java Script, Python, React and Flask
+- 👀 I’m interested in Programming, PC and Xbox Gaming, Drawing, Making Music, Playing Violin, Guitar and Keyboard, Conlanging, Japanese Language, Dolls, Sculptures and Driving 
+- 🌱 I’m currently learning C++, Raylib, Unity, Unreal Engine and Driving
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
